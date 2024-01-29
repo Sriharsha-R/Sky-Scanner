@@ -1,4 +1,4 @@
-# Sky Scaanner
+# Sky Scanner
 
 Developed a Java Web Application with Spring MVC and JSP, named "Sky Scanner," enabling users to book and manage their flights. The application provides an admin interface for adding/removing flights and overseeing administrative tasks.
 
