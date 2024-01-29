@@ -1,10 +1,12 @@
-# FlightTicketBooking
-This is a Java Web Application built on Spring MVC, using JSP. This is an application where the user can book flights and maintain his bookings, while the admin can add/remove flights and manage the admin side.
+# Sky Scaanner
+
+Developed a Java Web Application with Spring MVC and JSP, named "Sky Scanner," enabling users to book and manage their flights. The application provides an admin interface for adding/removing flights and overseeing administrative tasks.
+
 # Setup
-1. Download the project and unzip it.
-2. Open it in a IDE.
-3. Add your mysql server password in 'connection.properties' in src/main/resources
-4. Set up the mysql file.
-5. Run the mysql script.
-6. Run the project as a Java application
-7. The admin credentials are in the mysql script.
+1. Download and unzip the project files.
+2. Open the project in an Integrated Development Environment (IDE).
+3. Include your MySQL server password in the 'connection.properties' file located in src/main/resources.
+4. Configure the MySQL file accordingly.
+5. Execute the MySQL script to set up the required database.
+6. Launch the project as a Java application.
+7. Access the admin credentials as specified in the provided MySQL script.
